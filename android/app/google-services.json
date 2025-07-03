@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "426283843862",
+    "project_id": "ar-furnish-10268",
+    "storage_bucket": "ar-furnish-10268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426283843862:android:ffe14c16bf08d6636c9037",
+        "android_client_info": {
+          "package_name": "com.example.admin_penal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426283843862-t5n038k50q1vdv7jad8h9majr03ru2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPTyfMgZ6CI5V0aaLIBePr6M_UrUC7Qts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426283843862-t5n038k50q1vdv7jad8h9majr03ru2o2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426283843862-thm4s4fklspgbugqkjgegktdve8f6fq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arFurnish"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426283843862:android:216023a544117c306c9037",
+        "android_client_info": {
+          "package_name": "com.example.ar_furnish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426283843862-d5a3nr46nq1laa6bgu4qi503cs4596an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ar_furnish",
+            "certificate_hash": "926d8ce450382566047b646c79c2d6604d9ff9a4"
+          }
+        },
+        {
+          "client_id": "426283843862-t5n038k50q1vdv7jad8h9majr03ru2o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPTyfMgZ6CI5V0aaLIBePr6M_UrUC7Qts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426283843862-t5n038k50q1vdv7jad8h9majr03ru2o2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426283843862-thm4s4fklspgbugqkjgegktdve8f6fq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arFurnish"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
